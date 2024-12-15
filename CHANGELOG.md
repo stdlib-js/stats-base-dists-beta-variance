@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-15)
+
+<section class="features">
+
+### Features
+
+-   [`bb09b18`](https://github.com/stdlib-js/stdlib/commit/bb09b185f74d2fc05254a2f164119ca05054887f) - add C implementation for `stats/base/dists/beta/variance` [(#3919)](https://github.com/stdlib-js/stdlib/pull/3919)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3436](https://github.com/stdlib-js/stdlib/issues/3436)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`bb09b18`](https://github.com/stdlib-js/stdlib/commit/bb09b185f74d2fc05254a2f164119ca05054887f) - **feat:** add C implementation for `stats/base/dists/beta/variance` [(#3919)](https://github.com/stdlib-js/stdlib/pull/3919) _(by Vivek maurya, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-26)
