@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-06-20)
+## 0.3.0 (2026-01-25)
 
 <section class="features">
 
@@ -44,9 +44,10 @@ This release closes the following issue:
 
 <details>
 
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`e8d53c1`](https://github.com/stdlib-js/stdlib/commit/e8d53c1ed0a84ef82f9cd4fb6c1791d395cec482) - **fix:** remove unused eps dependency from beta/variance build task _(by Philipp Burckhardt)_
--   [`58636bd`](https://github.com/stdlib-js/stdlib/commit/58636bd810b01e44e6b3f5b987bcfc3da3f53d25) - **bench:** update random value generation [(#6813)](https://github.com/stdlib-js/stdlib/pull/6813) _(by Harsh)_
--   [`b7ca1bd`](https://github.com/stdlib-js/stdlib/commit/b7ca1bd43ab7777ea30f52b4f1392a78f3ad7b1b) - **docs:** replace manual `for` loop in examples [(#6793)](https://github.com/stdlib-js/stdlib/pull/6793) _(by Harsh)_
+-   [`58636bd`](https://github.com/stdlib-js/stdlib/commit/58636bd810b01e44e6b3f5b987bcfc3da3f53d25) - **bench:** update random value generation [(#6813)](https://github.com/stdlib-js/stdlib/pull/6813) _(by Harsh Yadav)_
+-   [`b7ca1bd`](https://github.com/stdlib-js/stdlib/commit/b7ca1bd43ab7777ea30f52b4f1392a78f3ad7b1b) - **docs:** replace manual `for` loop in examples [(#6793)](https://github.com/stdlib-js/stdlib/pull/6793) _(by Harsh Yadav)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`9394549`](https://github.com/stdlib-js/stdlib/commit/939454926b745326a5b14bcd0924a0526baa93da) - **bench:** refactor random number generation in `stats/base/dists/beta` [(#4837)](https://github.com/stdlib-js/stdlib/pull/4837) _(by Karan Anand)_
@@ -67,7 +68,7 @@ This release closes the following issue:
 
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Vivek Maurya
